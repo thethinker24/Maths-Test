@@ -10,7 +10,7 @@ This repository helps teachers generate math worksheets for students based on wh
 
 ![Alt Text](/advertising/video.gif)
 
-# To Ruun This Code
+# To Run This Code
 
 you need to install python. 
 you ned a platform to run the python like vscode.
