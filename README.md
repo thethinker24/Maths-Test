@@ -9,3 +9,21 @@ This repository helps teachers generate math worksheets for students based on wh
 ![plot](/advertising/solutions_ad.PNG)
 
 ![Alt Text](/advertising/video.gif)
+
+# To Ruun This Code
+
+you need to install python. 
+you ned a platform to run the python like vscode.
+Most important pylatex module.
+
+# Changes in Project
+
+To run this project in your pc you have to change the output address.
+Check the location of templates where it should be while running the project.
+
+# For error solving
+
+you can take help of chatGPT if there will be any issue regarding code but there isn't any.
+
+:slightly_smiling_face: :slightly_smiling_face: :slightly_smiling_face:
+
